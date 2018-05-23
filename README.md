@@ -1,42 +1,28 @@
 # The Starting Page
 
-### Product Research
-* [Product Playbook](#product-playbook)
-* [Market Research](#market-research)
-* [Resources](#resources)
+## Table of Contents
+* [Product Management](#product-management)
+* Front-end Development
+    * <https://github.com/thedaviddias/Front-End-Design-Checklist>
+    * <https://github.com/andrew--r/frontend-case-studies>
 
-### Product Design
-* [UX](#)
-* [UI](#)
-* [Inspiration](#inspiration)
-* [Resources](#resources)
-* [Directories](#directories)
+    * <https://github.com/trekhleb/javascript-algorithms>
+    * <https://github.com/elsewhencode/project-guidelines>
+* UI and UX Design
+* Career Development
 
-### Product Development
-* [Building an MVP](#building-an-mvp)
-* [Rapid Deployment](#rapid-deployment)
-* [Documentation](#documentation)
-* [Tools](#tools)
-* [Online Playgrounds](#online-playground)
-* [Directories](#directories)
-
-### Education
-* [My Learning Queue](#my-learning-queue)
-* [Deep Reading](#deep-reading)
-* [Directories](#directories)
-
-### Job Search
-* [Listings](#listings)
-* [Coding Interviews](#coding-interviews)
-* [Product Interviews](#product-interviews)
+### Content
+* Quick how-tos
+* Clear documentation
+* Clear examples
+* No directories, only as appendix of section
 
 
-## Product Research
-### Product Playbook
-### Market Research
-* [Crunchbase](https://crunchbase.com)
-### Resources
-* [First Search](https://search.firstround.com/lists)
+## Product Management
+
+* [The Product Playbook](https://productcoalition.com/the-typeform-product-playbook-49e1a5cc3a08)
+* Research: [Crunchbase](https://crunchbase.com)
+* Resource: [First Search](https://search.firstround.com/lists)
 * [Software Product Management](http://softwareproductmanagement.co/)
 * [Startup Tools](http://startupcollections.com/)
 * [List of Resources for Product Managers](http://alinmat.com/productdepo/)
@@ -45,90 +31,73 @@
 
 [:arrow_up: Back to Top](#the-starting-page)
 
+## Front-End Development
+* [Front-end Handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/)
+* [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev)
 
-## Product Design
-### UX
-### UI
-### Inspiration
-* [Codepen Design Patterns](http://codepen.io/patterns/)
-* [Codrops Blueprints](http://tympanus.net/codrops/category/blueprints/)
-* [UI Jar](https://uijar.com/)
+### Quick Reference
+* <https://sdras.github.io/array-explorer/>
+* <https://sdras.github.io/object-explorer/>
+* <https://devhints.io/>
 
-[:arrow_up: Back to Top](#the-starting-page)
+### Favorites
+* [Zeit Next](https://github.com/zeit/next.js) ([How to Use](https://gist.github.com/Omar12/6c4c809c7b88ece15ada#deploy-web-apps-with-zeit-now))
+* [Zeit Now](https://zeit.co/now)
 
-### Resources
-* [Design Guidelines](http://designguidelines.co/)
-* [Case Studies](https://github.com/luruke/awesome-casestudy)
-* [The Noun Project](http://thenounproject.com)
-* [UX Glossary](http://uxmastery.com/resources/glossary/)
+### Documentation
+* [DevDocs](http://devdocs.io/)
+* [CSS Reference](http://cssreference.io/)
 
-[:arrow_up: Back to Top](#the-starting-page)
+### In-Depth References
+* [Realworld Example Apps](https://github.com/gothinkster/realworld)
+* [Stack on a Budget](https://github.com/255kb/stack-on-a-budget)
+* [Mega Boilerplate](http://megaboilerplate.com): Boilerplate to start coding a web app.
+* [Rapid API](https://rapidapi.com/)
+* [APIList](https://apilist.fun/)
 
 ### Directories
+* [Javascripting](https://www.javascripting.com/)
+* [NPM Discover](http://www.npmdiscover.com/)
+* [npms](https://npms.io/)
+
+
+* [Jasonette](http://jasonette.com/): Build Quick iOS apps with just JSON files.
+* [Surge](https://surge.sh/)
+* [Codepen](https://codepen.io)
+* [RunKit](https://runkit.com/home) Web based Node prototyping
+* [CodeSandbox](https://codesandbox.io) Web based React prototyping
+* [30 Seconds of Code](https://chalarangelo.github.io/30-seconds-of-code/)
+
+## Design
+* Inspiration: [Codepen Design Patterns](http://codepen.io/patterns/)
+* Inspiration: [Codrops Blueprints](http://tympanus.net/codrops/category/blueprints/)
+* Inspiration: [UI Jar](https://uijar.com/)
+* [Icons: The Noun Project](https://thenounproject.com)
+* [Icons: Feather](https://feathericons.com/) [[More](https://news.ycombinator.com/item?id=15602538)]
+* [Images: Unsplash](https://unsplash.com/) [[More](https://news.ycombinator.com/item?id=15602538)]
+* [Design Guidelines](http://designguidelines.co/)
+* [Case Studies](https://github.com/luruke/awesome-casestudy)
+* [UX Glossary](http://uxmastery.com/resources/glossary/)
+* TODO: Color utility
+* TODO: Color theme
 * [Web Field Manual](http://webfieldmanual.com)
 * [Sans Francisco](http://www.sansfrancis.co)
 * [Awesome Design](https://github.com/gztchan/awesome-design)
 
 [:arrow_up: Back to Top](#the-starting-page)
 
-
-## Product Development
-### Boilerplates
-* [Mega Boilerplate](http://megaboilerplate.com): Boilerplate to start coding a web app.
-* [Zeit Next](https://github.com/zeit/next.js) ([How to Use](https://gist.github.com/Omar12/6c4c809c7b88ece15ada#deploy-web-apps-with-zeit-now))
-* [Jasonette](http://jasonette.com/): Build Quick iOS apps with just JSON files.
-
-[:arrow_up: Back to Top](#the-starting-page)
-
-### Rapid Deployment
-* Zeit [Now](https://zeit.co/now)
-* [Surge](https://surge.sh/)
-
-[:arrow_up: Back to Top](#the-starting-page)
-
-### Documentation
-* [DevDocs](http://devdocs.io/)
-* [CSS Reference](http://cssreference.io/)
-
-[:arrow_up: Back to Top](#the-starting-page)
-
-### Tools
-* [Javascripting](https://www.javascripting.com/)
-* [NPM Discover](http://www.npmdiscover.com/)
-* [npms](https://npms.io/)
-
-
-[:arrow_up: Back to Top](#the-starting-page)
-
-### Online Playgrounds
-* [Codepen](https://codepen.io)
-* [RunKit](https://runkit.com/home) Web based Node prototyping
-* [CodeSandbox](https://codesandbox.io) Web based React prototyping 
-
-[:arrow_up: Back to Top](#the-starting-page)
-
-### Directories
-* [Rapid API](https://rapidapi.com/)
-* [Stack on a Budget](https://github.com/255kb/stack-on-a-budget)
-* [Realworld Example Apps](https://github.com/gothinkster/realworld)
-
-[:arrow_up: Back to Top](#the-starting-page)
-
-
-## Education
-### My Learning Queue
-### Deep Reading
+## Career Development
+* [Build your own X](https://github.com/danistefanovic/build-your-own-x)
+* [Hackr.io](https://hackr.io/)
 * [ES6.io](http://es6.io)
 * [Egghead](https://egghead.io)
 * [Hacker Rank](https://www.hackerrank.com/)
-* [30 Seconds of Code](https://chalarangelo.github.io/30-seconds-of-code/)
 
 [:arrow_up: Back to Top](#the-starting-page)
 
 ### Directories
 * [Product Management Notes](https://gist.github.com/Omar12/ad73d372e336532a6ae3#cheat-sheet)
 * [Awesome Cheat Sheet](https://github.com/detailyang/awesome-cheatsheet)
-* [awesome list](https://github.com/sindresorhus/awesome)
 
 [:arrow_up: Back to Top](#the-starting-page)
 
@@ -150,6 +119,7 @@
 * [JavaScript Interview Review](https://github.com/adam-s/js-interview-review)
 * JavaScript Interview Questions: [Toptal](https://www.toptal.com/javascript/interview-questions) | [Github](https://github.com/kennymkchan/interview-questions-in-javascript)
 * [Everything you need to know about the Coding Test](https://github.com/andreis/interview)
+* [Front end Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
 
 [:arrow_up: Back to Top](#the-starting-page)
 
