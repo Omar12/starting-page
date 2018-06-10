@@ -53,18 +53,13 @@
 * [RunKit](https://runkit.com/home) Web based Node prototyping
 * [CodeSandbox](https://codesandbox.io) Web based React prototyping
 
-### In-Depth References
-* [Rapid API](https://rapidapi.com/) ([Alt](https://apilist.fun/))
+### APIs
+* [Rapid API](https://rapidapi.com/) 
+* [API List](https://apilist.fun/)
 
 ### Directories
 
 * [30 Seconds of Code](https://chalarangelo.github.io/30-seconds-of-code/)
-* [30 Seconds of Interviews](https://30secondsofinterviews.org/)
-* [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms)
-* [Project Euler](https://projecteuler.net/archives)
-* [Build your own X](https://github.com/danistefanovic/build-your-own-x)
-* [Stack on a Budget](https://github.com/255kb/stack-on-a-budget)
-* [Realworld Example Apps](https://github.com/gothinkster/realworld)
 
 ## Design
 * [Design Guidelines](http://designguidelines.co/)
@@ -92,29 +87,7 @@
 
 ## Career Development
 
-* [30 Seconds of Code](https://chalarangelo.github.io/30-seconds-of-code/)
-* [30 Seconds of Interviews](https://30secondsofinterviews.org/)
-* [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms)
-* [Project Euler](https://projecteuler.net/archives)
-* [Build your own X](https://github.com/danistefanovic/build-your-own-x)
-
-* [30 Seconds of Code](https://chalarangelo.github.io/30-seconds-of-code/)
-* [30 Seconds of Interviews](https://30secondsofinterviews.org/)
-* [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms)
-* [Project Euler](https://projecteuler.net/archives)
-* [Build your own X](https://github.com/danistefanovic/build-your-own-x)
-
-* [30 Seconds of Code](https://chalarangelo.github.io/30-seconds-of-code/)
-* [30 Seconds of Interviews](https://30secondsofinterviews.org/)
-* [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms)
-* [Project Euler](https://projecteuler.net/archives)
-* [Build your own X](https://github.com/danistefanovic/build-your-own-x)
-
-* [30 Seconds of Code](https://chalarangelo.github.io/30-seconds-of-code/)
-* [30 Seconds of Interviews](https://30secondsofinterviews.org/)
-* [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms)
-* [Project Euler](https://projecteuler.net/archives)
-* [Build your own X](https://github.com/danistefanovic/build-your-own-x) |(https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c)
+* [Build your own X](https://github.com/danistefanovic/build-your-own-x) | [More Projects](https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c)
 * [Leet Code](http://leetcode.com/)
 * [Hacker Rank](https://www.hackerrank.com/)
 * [Hackr.io](https://hackr.io/)
