@@ -9,7 +9,7 @@
 
 
 ## Daily Practice
-* [30 Seconds of Code](https://chalarangelo.github.io/30-seconds-of-code/)
+* [30 Seconds of Code](https://30secondsofcode.org/)
 * [30 Seconds of Interviews](https://30secondsofinterviews.org/)
 * [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms)
 * [Project Euler](https://projecteuler.net/archives)
@@ -33,15 +33,17 @@
 ## Front-End Development
 * [Front-end Handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/)
 * [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev)
-* <https://github.com/elsewhencode/project-guidelines>
+* [Project Guidelines](https://github.com/elsewhencode/project-guidelines)
 
 ### Favorites
 * [Zeit Next](https://github.com/zeit/next.js)
 * [Zeit Now](https://zeit.co/now) ([How to Use](https://gist.github.com/Omar12/6c4c809c7b88ece15ada#deploy-web-apps-with-zeit-now))
+* [Parcel](https://parceljs.org/)
 
 ### Documentation
 * [DevDocs](http://devdocs.io/)
 * [Dev Hints Cheat Sheets](https://devhints.io/)
+* [Code to go](https://codetogo.io/)
 
 ### Reference
 * [Array Explorer](https://sdras.github.io/array-explorer/) | [Object Explorer](https://sdras.github.io/object-explorer/)
