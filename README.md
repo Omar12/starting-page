@@ -54,6 +54,7 @@
 * [Frontend Case Studies](https://github.com/andrew--r/frontend-case-studies)
 * [RunKit](https://runkit.com/home) Web based Node prototyping
 * [CodeSandbox](https://codesandbox.io) Web based React prototyping
+* [Pretty Awesome List](https://www.prettyawesomelists.com/)
 
 ### APIs
 * [Rapid API](https://rapidapi.com/) 
@@ -97,7 +98,7 @@
 
 [:arrow_up: Back to Top](#the-starting-page)
 
-### Directories
+### Notes and Guides
 * [Product Management Notes](https://gist.github.com/Omar12/ad73d372e336532a6ae3#cheat-sheet)
 * [Awesome Cheat Sheet](https://github.com/detailyang/awesome-cheatsheet)
 
