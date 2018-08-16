@@ -110,6 +110,7 @@
 * [Hackr.io](https://hackr.io/)
 * [ES6.io](http://es6.io)
 * [JS Assessment](https://github.com/Omar12/js-assessment): TDD driven JS assessment.
+* [Development Resources](https://github.com/dakaraphi/development-resources)
 
 [:arrow_up: Back to Top](#the-starting-page)
 
