@@ -66,6 +66,7 @@
 [:arrow_up: Back to Top](#the-starting-page)
 
 ### Online Coding Playgrounds
+* [Observable HQ](https://beta.observablehq.com/)
 * [RunKit](https://runkit.com/home) Web based Node prototyping
 * [CodeSandbox](https://codesandbox.io) Web based React prototyping
 * [JSFiddle](https://jsfiddle.net)
