@@ -63,6 +63,7 @@
 ### Directories
 
 * [30 Seconds of Code](https://chalarangelo.github.io/30-seconds-of-code/)
+* [Development Resources](https://github.com/dakaraphi/development-resources)
 
 ## Design
 * [Design Guidelines](http://designguidelines.co/)
