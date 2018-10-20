@@ -51,6 +51,7 @@
 [:arrow_up: Back to Top](#the-starting-page)
 
 ### Reference and Directories
+* [33 JavaScript Concepts](https://github.com/leonardomso/33-js-concepts)
 * [Javascripting](https://www.javascripting.com/)
 * [Array Explorer](https://sdras.github.io/array-explorer/) | [Object Explorer](https://sdras.github.io/object-explorer/)
 * [30 Seconds of Code](https://chalarangelo.github.io/30-seconds-of-code/)
