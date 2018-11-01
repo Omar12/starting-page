@@ -9,7 +9,6 @@
 
 
 ## Daily Practice
-* [30 Seconds of Code](https://30secondsofcode.org/)
 * [30 Seconds of Interviews](https://30secondsofinterviews.org/)
 * [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms)
 * [Project Euler](https://projecteuler.net/archives)
@@ -52,6 +51,8 @@
 
 ### Reference and Directories
 * [33 JavaScript Concepts](https://github.com/leonardomso/33-js-concepts)
+* [30 Seconds of Code](https://30secondsofcode.org/)
+* [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
 * [Javascripting](https://www.javascripting.com/)
 * [Array Explorer](https://sdras.github.io/array-explorer/) | [Object Explorer](https://sdras.github.io/object-explorer/)
 * [30 Seconds of Code](https://chalarangelo.github.io/30-seconds-of-code/)
