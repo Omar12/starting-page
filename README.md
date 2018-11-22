@@ -6,6 +6,7 @@
 * [Front-end Development](#front-end-development)
 * [UI and UX Design Resources](#design)
 * [Career Development Resources](#career-development)
+* [Listings, Information and Interviews](#listings-infrmation-and-interviews)
 
 
 ## Daily Practice
@@ -33,6 +34,7 @@
 * [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev)
 * [Project Guidelines](https://github.com/elsewhencode/project-guidelines)
 * [Front-End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
+* [Frontend Guide](https://github.com/grab/front-end-guide)
 
 ### Favorites
 * [Zeit Next](https://github.com/zeit/next.js)
@@ -55,7 +57,6 @@
 * [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
 * [Javascripting](https://www.javascripting.com/)
 * [Array Explorer](https://sdras.github.io/array-explorer/) | [Object Explorer](https://sdras.github.io/object-explorer/)
-* [30 Seconds of Code](https://chalarangelo.github.io/30-seconds-of-code/)
 * [React JS Examples](https://reactjsexample.com/)
 * [CSS Reference](http://cssreference.io/)
 * [NPM Discover](http://www.npmdiscover.com/)
@@ -65,6 +66,8 @@
 * [API List](https://apilist.fun/)
 * [Pretty Awesome List](https://www.prettyawesomelists.com/)
 * [Development Resources](https://github.com/dakaraphi/development-resources)
+* [Best Websites Programmers Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+* [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 
 [:arrow_up: Back to Top](#the-starting-page)
 
@@ -107,8 +110,10 @@
 [:arrow_up: Back to Top](#the-starting-page)
 
 ## Career Development
-
-* [Build your own X](https://github.com/danistefanovic/build-your-own-x) | [More Projects](https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c)
+* [Build your own X](https://github.com/danistefanovic/build-your-own-x)
+* [Project Based Learning](https://github.com/tuvtran/project-based-learning)
+* [A List of Fun Apps to Build](https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c)
+* [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
 * [CodinGame](https://www.codingame.com)
 * [Leet Code](http://leetcode.com/)
 * [Hacker Rank](https://www.hackerrank.com/)
@@ -119,10 +124,15 @@
 
 [:arrow_up: Back to Top](#the-starting-page)
 
-### Listings
+### Listings, Information and Interviews
 * [HN: Who is Hiring Aggregator](https://whoishiring.io/#!/)
 * [Companies with easy job applications](https://github.com/j-delaney/easy-application)
 * [Product Hired](http://www.producthired.com/)
+* [100 Job Boards](https://100jobboards.com/)
+* [Cracking the Frontend Interview](https://blog.usejournal.com/cracking-the-frontend-coding-interview-ec7d5b1e6755)
+* [Levels.fyi](https://www.levels.fyi/SE/Google/Facebook/Microsoft)
+* [Interviews](https://github.com/kdn251/interviews)
+* [Pramp](https://www.pramp.com/#/) Practice Interviews
 
 [:arrow_up: Back to Top](#the-starting-page)
 
