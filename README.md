@@ -6,7 +6,8 @@
 * [Front-end Development](#front-end-development)
 * [UI and UX Design Resources](#design)
 * [Career Development Resources](#career-development)
-* [Listings, Information and Interviews](#listings-infrmation-and-interviews)
+* [Listings and Information](#listings-and-information)
+* [Preparation](#preparation)
 
 
 ## Daily Practice
@@ -62,12 +63,15 @@
 * [NPM Discover](http://www.npmdiscover.com/)
 * [npms](https://npms.io/)
 * [Frontend Case Studies](https://github.com/andrew--r/frontend-case-studies)
-* [Rapid API](https://rapidapi.com/) 
+* [Learn X in Minutes](https://learnxinyminutes.com/)
+* [Rapid API](https://rapidapi.com/)
 * [API List](https://apilist.fun/)
 * [Pretty Awesome List](https://www.prettyawesomelists.com/)
 * [Development Resources](https://github.com/dakaraphi/development-resources)
 * [Best Websites Programmers Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
+* [Awesomo](https://github.com/lk-geimfari/awesomo)
+* [git flight rules](https://github.com/k88hudson/git-flight-rules)
 
 [:arrow_up: Back to Top](#the-starting-page)
 
@@ -124,15 +128,20 @@
 
 [:arrow_up: Back to Top](#the-starting-page)
 
-### Listings, Information and Interviews
+### Listings and Information
 * [HN: Who is Hiring Aggregator](https://whoishiring.io/#!/)
-* [Companies with easy job applications](https://github.com/j-delaney/easy-application)
 * [Product Hired](http://www.producthired.com/)
+* [Companies with easy job applications](https://github.com/j-delaney/easy-application)
 * [100 Job Boards](https://100jobboards.com/)
-* [Cracking the Frontend Interview](https://blog.usejournal.com/cracking-the-frontend-coding-interview-ec7d5b1e6755)
 * [Levels.fyi](https://www.levels.fyi/SE/Google/Facebook/Microsoft)
-* [Interviews](https://github.com/kdn251/interviews)
+
+[:arrow_up: Back to Top](#the-starting-page)
+
+### Preparation
 * [Pramp](https://www.pramp.com/#/) Practice Interviews
+* [Front-end Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
+* [Interviews](https://github.com/kdn251/interviews)
+* [Cracking the Frontend Interview](https://blog.usejournal.com/cracking-the-frontend-coding-interview-ec7d5b1e6755)
 
 [:arrow_up: Back to Top](#the-starting-page)
 
