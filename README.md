@@ -142,6 +142,7 @@
 * [Front-end Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
 * [Interviews](https://github.com/kdn251/interviews)
 * [Cracking the Frontend Interview](https://blog.usejournal.com/cracking-the-frontend-coding-interview-ec7d5b1e6755)
+* [Google Tech Dev Guide](https://techdevguide.withgoogle.com/)
 
 [:arrow_up: Back to Top](#the-starting-page)
 
