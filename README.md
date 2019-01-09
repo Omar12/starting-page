@@ -138,8 +138,9 @@
 [:arrow_up: Back to Top](#the-starting-page)
 
 ### Preparation
-* [Pramp](https://www.pramp.com/#/) Practice Interviews
 * [Front-end Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
+* [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions#javascript)
+* [Pramp](https://www.pramp.com/#/) Practice Interviews
 * [Interviews](https://github.com/kdn251/interviews)
 * [Cracking the Frontend Interview](https://blog.usejournal.com/cracking-the-frontend-coding-interview-ec7d5b1e6755)
 * [Google Tech Dev Guide](https://techdevguide.withgoogle.com/)
