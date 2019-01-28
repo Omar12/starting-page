@@ -1,13 +1,26 @@
 # The Starting Page
 
 ## Contents
-* [Daily Practice](#daily-practice)
-* [Product Management](#product-management)
-* [Front-end Development](#front-end-development)
-* [UI and UX Design Resources](#design)
-* [Career Development Resources](#career-development)
-* [Listings and Information](#listings-and-information)
-* [Preparation](#preparation)
+- [The Starting Page](#the-starting-page)
+  - [Contents](#contents)
+  - [Daily Practice](#daily-practice)
+  - [Product Management](#product-management)
+    - [Further Reading](#further-reading)
+  - [Front-End Development](#front-end-development)
+    - [General](#general)
+    - [JavaScript](#javascript)
+    - [Tools](#tools)
+    - [Documentation and Cheat Sheets](#documentation-and-cheat-sheets)
+    - [Reference and Directories](#reference-and-directories)
+    - [Online Coding Playgrounds](#online-coding-playgrounds)
+  - [Design](#design)
+    - [Directories](#directories)
+  - [Career Development](#career-development)
+    - [Develop](#develop)
+    - [Preparation](#preparation)
+    - [Practice](#practice)
+    - [Listings and Information](#listings-and-information)
+    - [Notes and Guides](#notes-and-guides)
 
 
 ## Daily Practice
@@ -31,14 +44,28 @@
 [:arrow_up: Back to Top](#the-starting-page)
 
 ## Front-End Development
+
+### General
 * [Front-end Handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/)
 * [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev)
 * [Project Guidelines](https://github.com/elsewhencode/project-guidelines)
+* [Front-End Checklist](https://frontendchecklist.io/)
 * [Front-End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
 * [Frontend Guide](https://github.com/grab/front-end-guide)
 
-### Favorites
+### JavaScript
+* [JavaScript.info](https://javascript.info/)
+* [JS The Right Way](http://jstherightway.org/)
+* [33 JavaScript Concepts](https://github.com/leonardomso/33-js-concepts)
+* [Javascripting](https://www.javascripting.com/)
+* [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
+* [30 Seconds of Code](https://30secondsofcode.org/)
+
+[:arrow_up: Back to Top](#the-starting-page)
+
+### Tools
 * [Zeit Next](https://github.com/zeit/next.js)
+* [Create React App](https://github.com/facebook/create-react-app)
 * [Zeit Now](https://zeit.co/now) ([How to Use](https://gist.github.com/Omar12/6c4c809c7b88ece15ada#deploy-web-apps-with-zeit-now))
 * [Parcel](https://parceljs.org/)
 
@@ -49,28 +76,24 @@
 * [Dev Hints Cheat Sheets](https://devhints.io/)
 * [Code to go](https://codetogo.io/)
 * [Modern JS Cheat Sheet](https://github.com/mbeaudru/modern-js-cheatsheet)
+* [Array Explorer](https://sdras.github.io/array-explorer/) | [Object Explorer](https://sdras.github.io/object-explorer/)
 
 [:arrow_up: Back to Top](#the-starting-page)
 
 ### Reference and Directories
-* [33 JavaScript Concepts](https://github.com/leonardomso/33-js-concepts)
-* [30 Seconds of Code](https://30secondsofcode.org/)
 * [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
-* [Javascripting](https://www.javascripting.com/)
-* [Array Explorer](https://sdras.github.io/array-explorer/) | [Object Explorer](https://sdras.github.io/object-explorer/)
-* [React JS Examples](https://reactjsexample.com/)
 * [CSS Reference](http://cssreference.io/)
 * [NPM Discover](http://www.npmdiscover.com/)
 * [npms](https://npms.io/)
+* [Pika](https://www.pikapkg.com)
+* [React JS Examples](https://reactjsexample.com/)
 * [Frontend Case Studies](https://github.com/andrew--r/frontend-case-studies)
 * [Learn X in Minutes](https://learnxinyminutes.com/)
-* [Rapid API](https://rapidapi.com/)
+* [Rapid API](https://rapidapxi.com/)
 * [API List](https://apilist.fun/)
 * [Pretty Awesome List](https://www.prettyawesomelists.com/)
 * [Development Resources](https://github.com/dakaraphi/development-resources)
 * [Best Websites Programmers Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
-* [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
-* [Awesomo](https://github.com/lk-geimfari/awesomo)
 * [git flight rules](https://github.com/k88hudson/git-flight-rules)
 
 [:arrow_up: Back to Top](#the-starting-page)
@@ -79,8 +102,9 @@
 * [RunKit](https://runkit.com/home) Web based Node prototyping
 * [Glitch](https://glitch.com/)
 * [Observable HQ](https://beta.observablehq.com/)
+* [Codepen](https://codepen.io)
 * [CodeSandbox](https://codesandbox.io) Web based React prototyping
-* [JSFiddle](https://jsfiddle.net)
+* [REPL.it](https://repl.it)
 
 [:arrow_up: Back to Top](#the-starting-page)
 
@@ -114,17 +138,36 @@
 [:arrow_up: Back to Top](#the-starting-page)
 
 ## Career Development
+
+### Develop
+* [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+* [Professional Programming](https://github.com/charlax/professional-programming)
+* [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
 * [Build your own X](https://github.com/danistefanovic/build-your-own-x)
 * [Project Based Learning](https://github.com/tuvtran/project-based-learning)
 * [A List of Fun Apps to Build](https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c)
-* [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+* [Beginner Friendly Projects](https://github.com/MunGell/awesome-for-beginners)
+
+[:arrow_up: Back to Top](#the-starting-page)
+
+### Preparation
+* [Front-end Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
+* [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions#javascript)
+* [Pramp](https://www.pramp.com/#/) Practice Interviews
+* [Interviews](https://github.com/kdn251/interviews)
+* [Cracking the Frontend Interview](https://blog.usejournal.com/cracking-the-frontend-coding-interview-ec7d5b1e6755)
+* [Google Tech Dev Guide](https://techdevguide.withgoogle.com/)
+* [Development Resources](https://github.com/dakaraphi/development-resources)
+
+[:arrow_up: Back to Top](#the-starting-page)
+
+### Practice
 * [CodinGame](https://www.codingame.com)
 * [Leet Code](http://leetcode.com/)
 * [Hacker Rank](https://www.hackerrank.com/)
 * [Hackr.io](https://hackr.io/)
 * [ES6.io](http://es6.io)
 * [JS Assessment](https://github.com/Omar12/js-assessment): TDD driven JS assessment.
-* [Development Resources](https://github.com/dakaraphi/development-resources)
 
 [:arrow_up: Back to Top](#the-starting-page)
 
@@ -137,18 +180,9 @@
 
 [:arrow_up: Back to Top](#the-starting-page)
 
-### Preparation
-* [Front-end Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
-* [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions#javascript)
-* [Pramp](https://www.pramp.com/#/) Practice Interviews
-* [Interviews](https://github.com/kdn251/interviews)
-* [Cracking the Frontend Interview](https://blog.usejournal.com/cracking-the-frontend-coding-interview-ec7d5b1e6755)
-* [Google Tech Dev Guide](https://techdevguide.withgoogle.com/)
-
-[:arrow_up: Back to Top](#the-starting-page)
-
 ### Notes and Guides
 * [Product Management Notes](https://gist.github.com/Omar12/ad73d372e336532a6ae3#cheat-sheet)
+* [Awesomo](https://github.com/lk-geimfari/awesomo)
 * [Awesome Cheat Sheet](https://github.com/detailyang/awesome-cheatsheet)
 
 [:arrow_up: Back to Top](#the-starting-page)
