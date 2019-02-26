@@ -3,9 +3,7 @@
 ## Contents
 - [The Starting Page](#the-starting-page)
   - [Contents](#contents)
-  - [Daily Practice](#daily-practice)
-  - [Product Management](#product-management)
-    - [Further Reading](#further-reading)
+  - [Go-to Resources](#go-to-resources)
   - [Front-End Development](#front-end-development)
     - [General](#general)
     - [JavaScript](#javascript)
@@ -14,34 +12,27 @@
     - [Reference and Directories](#reference-and-directories)
     - [Online Coding Playgrounds](#online-coding-playgrounds)
   - [Design](#design)
+    - [Inspiration](#inspiration)
+    - [Design Elements](#design-elements)
+      - [Icons](#icons)
+      - [Images](#images)
+      - [Tools](#tools-1)
+      - [UI Frameworks](#ui-frameworks)
     - [Directories](#directories)
+  - [Product Management](#product-management)
+    - [Further Reading](#further-reading)
   - [Career Development](#career-development)
-    - [Develop](#develop)
+    - [Development](#development)
     - [Preparation](#preparation)
     - [Practice](#practice)
     - [Listings and Information](#listings-and-information)
     - [Notes and Guides](#notes-and-guides)
 
-
-## Daily Practice
-* [30 Seconds of Interviews](https://30secondsofinterviews.org/)
-* [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms)
-* [Project Euler](https://projecteuler.net/archives)
-
-## Product Management
-
-* Baseline: [The Product Playbook](https://productcoalition.com/the-typeform-product-playbook-49e1a5cc3a08)
-* Research: [Crunchbase](https://crunchbase.com)
-* [Software Product Management](http://softwareproductmanagement.co/)
-* [Startup Tools](http://startupcollections.com/)
-* [List of Resources for Product Managers](http://alinmat.com/productdepo/)
-
-### Further Reading
-* [First Search](https://search.firstround.com/lists)
-* [Open Product Management](https://github.com/tron1991/open-product-management)
-* [Udemy Course Notes](https://gist.github.com/Omar12/ad73d372e336532a6ae3#udemys-become-a-product-manager)
-
-[:arrow_up: Back to Top](#the-starting-page)
+## Go-to Resources
+* [DevDocs](http://devdocs.io/)
+* [CSS Reference](http://cssreference.io/)
+* [CodeSandbox](https://codesandbox.io) Web based React prototyping
+* [git Flight Rules](https://github.com/k88hudson/git-flight-rules)
 
 ## Front-End Development
 
@@ -57,44 +48,40 @@
 * [JavaScript.info](https://javascript.info/)
 * [JS The Right Way](http://jstherightway.org/)
 * [33 JavaScript Concepts](https://github.com/leonardomso/33-js-concepts)
-* [Javascripting](https://www.javascripting.com/)
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 * [30 Seconds of Code](https://30secondsofcode.org/)
 
 [:arrow_up: Back to Top](#the-starting-page)
 
 ### Tools
-* [Zeit Next](https://github.com/zeit/next.js)
 * [Create React App](https://github.com/facebook/create-react-app)
+* [Zeit Next](https://github.com/zeit/next.js)
 * [Zeit Now](https://zeit.co/now) ([How to Use](https://gist.github.com/Omar12/6c4c809c7b88ece15ada#deploy-web-apps-with-zeit-now))
 * [Parcel](https://parceljs.org/)
 
 [:arrow_up: Back to Top](#the-starting-page)
 
 ### Documentation and Cheat Sheets
-* [DevDocs](http://devdocs.io/)
 * [Dev Hints Cheat Sheets](https://devhints.io/)
-* [Code to go](https://codetogo.io/)
 * [Modern JS Cheat Sheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 * [Array Explorer](https://sdras.github.io/array-explorer/) | [Object Explorer](https://sdras.github.io/object-explorer/)
 
 [:arrow_up: Back to Top](#the-starting-page)
 
 ### Reference and Directories
+* [Javascripting](https://www.javascripting.com/)
 * [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
-* [CSS Reference](http://cssreference.io/)
+* [ES6.io](http://es6.io)
 * [NPM Discover](http://www.npmdiscover.com/)
 * [npms](https://npms.io/)
 * [Pika](https://www.pikapkg.com)
-* [React JS Examples](https://reactjsexample.com/)
 * [Frontend Case Studies](https://github.com/andrew--r/frontend-case-studies)
 * [Learn X in Minutes](https://learnxinyminutes.com/)
+* [React JS Examples](https://reactjsexample.com/)
 * [Rapid API](https://rapidapxi.com/)
 * [API List](https://apilist.fun/)
-* [Pretty Awesome List](https://www.prettyawesomelists.com/)
-* [Development Resources](https://github.com/dakaraphi/development-resources)
 * [Best Websites Programmers Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
-* [git flight rules](https://github.com/k88hudson/git-flight-rules)
+* [Development Resources](https://github.com/dakaraphi/development-resources)
 
 [:arrow_up: Back to Top](#the-starting-page)
 
@@ -103,26 +90,39 @@
 * [Glitch](https://glitch.com/)
 * [Observable HQ](https://beta.observablehq.com/)
 * [Codepen](https://codepen.io)
-* [CodeSandbox](https://codesandbox.io) Web based React prototyping
 * [REPL.it](https://repl.it)
 
 [:arrow_up: Back to Top](#the-starting-page)
 
 ## Design
-* [Design Guidelines](http://designguidelines.co/)
-* Inspiration: [Codepen Design Patterns](http://codepen.io/patterns/)
-* Inspiration: [Codrops Blueprints](http://tympanus.net/codrops/category/blueprints/)
-* Inspiration: [UI Jar](https://uijar.com/)
-* Icons: [The Noun Project](https://thenounproject.com)
-* Icons: [Feather](https://feathericons.com/) | [More](https://news.ycombinator.com/item?id=15602538)
-* Images: [Unsplash](https://unsplash.com/) | [More](https://news.ycombinator.com/item?id=15602538)
-* Color: [Coolors](https://coolors.co/)
-* Color Themes: [Colorhunt](https://colorhunt.co/) | [Color Drop](https://colordrop.io/)
-* Fonts: [Google Font Combinations](https://femmebot.github.io/google-type/) | [Typography.com](https://www.typography.com/)
-* [Front-end Design Checklist](https://github.com/thedaviddias/Front-End-Design-Checklist)
+
+### Inspiration
+* [Codepen Design Patterns](http://codepen.io/patterns/)
+* [Codrops Blueprints](http://tympanus.net/codrops/category/blueprints/)
+* [UI Jar](https://uijar.com/)
+
+### Design Elements
+#### Icons
+* [The Noun Project](https://thenounproject.com)
+* [Feather](https://feathericons.com/)
+* [More](https://news.ycombinator.com/item?id=15602538)
+
+#### Images
+* [Unsplash](https://unsplash.com/)
+* [More](https://news.ycombinator.com/item?id=15602538)
+
+#### Tools
+* [Coolors](https://coolors.co/)
+* [Colorhunt](https://colorhunt.co/)
+* [Color Drop](https://colordrop.io/)
+* [Google Font Combinations](https://femmebot.github.io/google-type/)
+* [Typography.com](https://www.typography.com/)
+* [Better Web Type](https://betterwebtype.com/web-typography-resources)
 * [CSS Grid Layout Builder](https://www.layoutit.com/grid)
-* UI Framework: [Evergreen](https://evergreen.surge.sh/)
-* UI Framework: [Semantic UI](https://semantic-ui.com/) | [React Semantic UI](https://react.semantic-ui.com/)
+
+#### UI Frameworks
+* [Evergreen](https://evergreen.surge.sh/)
+* [Semantic UI](https://semantic-ui.com/) | [React Semantic UI](https://react.semantic-ui.com/)
 
 [:arrow_up: Back to Top](#the-starting-page)
 
@@ -133,40 +133,57 @@
 * [Brand Style Guide Examples](https://saijogeorge.com/brand-style-guide-examples/)
 * [UX Glossary](http://uxmastery.com/resources/glossary/)
 * [Sketch App Sources](https://www.sketchappsources.com/)
+* [Front-end Design Checklist](https://github.com/thedaviddias/Front-End-Design-Checklist)
 * [Awesome Design](https://github.com/gztchan/awesome-design)
+* [Awesome Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
+
+[:arrow_up: Back to Top](#the-starting-page)
+
+## Product Management
+* Baseline: [The Product Playbook](https://productcoalition.com/the-typeform-product-playbook-49e1a5cc3a08)
+* Research: [Crunchbase](https://crunchbase.com)
+* [Software Product Management](http://softwareproductmanagement.co/)
+* [Startup Tools](http://startupcollections.com/)
+* [List of Resources for Product Managers](http://alinmat.com/productdepo/)
+
+### Further Reading
+* [First Search](https://search.firstround.com/lists)
+* [Open Product Management](https://github.com/tron1991/open-product-management)
+* [Udemy Course Notes](https://gist.github.com/Omar12/ad73d372e336532a6ae3#udemys-become-a-product-manager)
 
 [:arrow_up: Back to Top](#the-starting-page)
 
 ## Career Development
 
-### Develop
+### Development
 * [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 * [Professional Programming](https://github.com/charlax/professional-programming)
 * [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
 * [Build your own X](https://github.com/danistefanovic/build-your-own-x)
 * [Project Based Learning](https://github.com/tuvtran/project-based-learning)
-* [A List of Fun Apps to Build](https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c)
 * [Beginner Friendly Projects](https://github.com/MunGell/awesome-for-beginners)
 
 [:arrow_up: Back to Top](#the-starting-page)
 
 ### Preparation
+* [30 Seconds of Interviews](https://30secondsofinterviews.org/)
 * [Front-end Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
 * [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions#javascript)
-* [Pramp](https://www.pramp.com/#/) Practice Interviews
+* [Pramp](https://www.pramp.com/#/)
 * [Interviews](https://github.com/kdn251/interviews)
 * [Cracking the Frontend Interview](https://blog.usejournal.com/cracking-the-frontend-coding-interview-ec7d5b1e6755)
 * [Google Tech Dev Guide](https://techdevguide.withgoogle.com/)
 * [Development Resources](https://github.com/dakaraphi/development-resources)
+* [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms)
 
 [:arrow_up: Back to Top](#the-starting-page)
 
 ### Practice
 * [CodinGame](https://www.codingame.com)
 * [Leet Code](http://leetcode.com/)
+* [Project Euler](https://projecteuler.net/archives)
 * [Hacker Rank](https://www.hackerrank.com/)
 * [Hackr.io](https://hackr.io/)
-* [ES6.io](http://es6.io)
 * [JS Assessment](https://github.com/Omar12/js-assessment): TDD driven JS assessment.
 
 [:arrow_up: Back to Top](#the-starting-page)
