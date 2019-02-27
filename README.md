@@ -62,6 +62,7 @@
 [:arrow_up: Back to Top](#the-starting-page)
 
 ### Documentation and Cheat Sheets
+* [Codrops CSS Reference](https://tympanus.net/codrops/css_reference/)
 * [Dev Hints Cheat Sheets](https://devhints.io/)
 * [Modern JS Cheat Sheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 * [Array Explorer](https://sdras.github.io/array-explorer/) | [Object Explorer](https://sdras.github.io/object-explorer/)
