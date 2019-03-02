@@ -32,6 +32,7 @@
 * [DevDocs](http://devdocs.io/)
 * [CSS Reference](http://cssreference.io/)
 * [CodeSandbox](https://codesandbox.io) Web based React prototyping
+* [Dev Hints Cheat Sheets](https://devhints.io/)
 * [git Flight Rules](https://github.com/k88hudson/git-flight-rules)
 
 ## Front-End Development
@@ -63,7 +64,6 @@
 
 ### Documentation and Cheat Sheets
 * [Codrops CSS Reference](https://tympanus.net/codrops/css_reference/)
-* [Dev Hints Cheat Sheets](https://devhints.io/)
 * [Modern JS Cheat Sheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 * [Array Explorer](https://sdras.github.io/array-explorer/) | [Object Explorer](https://sdras.github.io/object-explorer/)
 
