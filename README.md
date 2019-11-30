@@ -33,6 +33,7 @@ The approach of the starting page is to be my handy instruction manual for whene
 ## Do Things Right
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 * [Professional Programming](https://github.com/charlax/professional-programming)
+* [Effective Engineer](https://gist.github.com/Omar12/a2bd781af37126a5d16efebae9922083)
 * [Frontend Guide](https://github.com/grab/front-end-guide)
 
 ## The CSS
@@ -50,6 +51,8 @@ The approach of the starting page is to be my handy instruction manual for whene
 * [Javascripting](https://www.javascripting.com/)
 * [Pika](https://www.pikapkg.com)
 * [Frontend  Masters: Front-End Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
+* [Free for Dev](https://free-for.dev/#/)
+* [You Don't Need X](https://github.com/you-dont-need/You-Dont-Need.com)
 
 ## When I Need Ideas
 * [Public APIs](https://public-apis.xyz/)
@@ -89,6 +92,8 @@ The approach of the starting page is to be my handy instruction manual for whene
 * [Leet Code](http://leetcode.com/)
 * [Educative](https://educative.io) :moneybag:
 * [Interview Cake](https://interviewcake.com) :moneybag:
+* [Blind](https://www.teamblind.com/)
+* [Rooftop Slushie](https://www.rooftopslushie.com/)
 
 ## Listings and Information
 * [HN: Who is Hiring Aggregator](https://whoishiring.io/#!/)
