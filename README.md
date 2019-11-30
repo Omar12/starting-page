@@ -92,9 +92,9 @@ The approach of the starting page is to be my handy instruction manual for whene
 * [Leet Code](http://leetcode.com/)
 * [Educative](https://educative.io) :moneybag:
 * [Interview Cake](https://interviewcake.com) :moneybag:
-* [Blind](https://www.teamblind.com/)
-* [Rooftop Slushie](https://www.rooftopslushie.com/)
 
 ## Listings and Information
 * [HN: Who is Hiring Aggregator](https://whoishiring.io/#!/)
 * [Levels.fyi](https://www.levels.fyi/SE/Google/Facebook/Microsoft)
+* [Blind](https://www.teamblind.com/)
+* [Rooftop Slushie](https://www.rooftopslushie.com/)
