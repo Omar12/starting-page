@@ -74,7 +74,7 @@ The approach of the starting page is to be my handy instruction manual for whene
 * [JavaScript Enlightment](https://frontendmasters.com/books/javascript-enlightenment/)
 
 ## Leveling Up React
-* https://reactresources.com/
+* [React Resources](https://reactresources.com/)
 * [React JS Examples](https://reactjsexample.com/)
 
 ## When I Need Design Tools
