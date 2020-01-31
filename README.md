@@ -49,6 +49,7 @@ The approach of the starting page is to be my handy instruction manual for whene
 * [NPM Discover](http://www.npmdiscover.com/)
 * [npms](https://npms.io/)
 * [Javascripting](https://www.javascripting.com/)
+* [Tiny Helpers](https://tiny-helpers.dev/)
 * [Pika](https://www.pikapkg.com)
 * [Frontend  Masters: Front-End Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
 * [Free for Dev](https://free-for.dev/#/)
