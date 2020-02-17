@@ -14,6 +14,7 @@ The approach of the starting page is to be my handy instruction manual for whene
   - [When I Need to Run Something Online](#When-I-Need-to-Run-Something-Online)
   - [Leveling Up JavaScript](#Leveling-Up-JavaScript)
   - [Leveling Up React](#Leveling-Up-React)
+  - [Prototyping Tools](#Prototyping-Tools)
   - [When I Need Design Tools](#When-I-Need-Design-Tools)
   - [Interviewing](#Interviewing)
   - [Listings and Information](#Listings-and-Information)
@@ -24,7 +25,8 @@ The approach of the starting page is to be my handy instruction manual for whene
 * [Dev Hints Cheat Sheets](https://devhints.io/)
 * [JavaScript.info](https://javascript.info/)
 * [Modern JS Cheat Sheet](https://github.com/mbeaudru/modern-js-cheatsheet)
-* [git Flight Rules](https://github.com/k88hudson/git-flight-rules)
+* [Git Flight Rules](https://github.com/k88hudson/git-flight-rules)
+* [Git Explorer](https://gitexplorer.com/)
 * [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
 * [Array Explorer](https://sdras.github.io/array-explorer/)
 * [Object Explorer](https://sdras.github.io/object-explorer/)
@@ -46,16 +48,17 @@ The approach of the starting page is to be my handy instruction manual for whene
 * [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
 ## When I Need Tools
+* [Tiny Helpers](https://tiny-helpers.dev/)
 * [NPM Discover](http://www.npmdiscover.com/)
 * [npms](https://npms.io/)
 * [Javascripting](https://www.javascripting.com/)
-* [Tiny Helpers](https://tiny-helpers.dev/)
 * [Pika](https://www.pikapkg.com)
 * [Frontend  Masters: Front-End Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
 * [Free for Dev](https://free-for.dev/#/)
 * [You Don't Need X](https://github.com/you-dont-need/You-Dont-Need.com)
 
 ## When I Need Ideas
+* [App Ideas](https://github.com/florinpop17/app-ideas)
 * [Public APIs](https://public-apis.xyz/)
 * [Build your own X](https://github.com/danistefanovic/build-your-own-x)
 * [Project Based Learning](https://github.com/tuvtran/project-based-learning)
@@ -77,8 +80,13 @@ The approach of the starting page is to be my handy instruction manual for whene
 ## Leveling Up React
 * [React Resources](https://reactresources.com/)
 * [React JS Examples](https://reactjsexample.com/)
+* [React Cheat Sheet for 2020](https://dev.to/codeartistryio/the-react-cheatsheet-for-2020-real-world-examples-4hgg)
+
+## Prototyping Tools
+* [JSON Placeholder]https://jsonplaceholder.typicode.com/
 
 ## When I Need Design Tools
+* [Spark Joy](https://github.com/sw-yx/spark-joy)
 * [Evergreen](https://evergreen.surge.sh/)
 * [Semantic UI](https://semantic-ui.com/) | [React Semantic UI](https://react.semantic-ui.com/)
 * [Colorhunt](https://colorhunt.co/)
@@ -87,15 +95,15 @@ The approach of the starting page is to be my handy instruction manual for whene
 
 ## Interviewing
 * [30 Seconds of Interviews](https://30secondsofinterviews.org/)
-* [Front-end Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
+* [Front-end Interview Handbook](https://yangshun.github.io/tech-interview-handbook/) | ([Github](https://github.com/yangshun/front-end-interview-handbook))
 * [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions#javascript)
 * [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms)
-* [Leet Code](http://leetcode.com/)
+* [Leet Code](https://leetcode.com/)
 * [Educative](https://educative.io) :moneybag:
 * [Interview Cake](https://interviewcake.com) :moneybag:
 
 ## Listings and Information
 * [HN: Who is Hiring Aggregator](https://whoishiring.io/#!/)
-* [Levels.fyi](https://www.levels.fyi/SE/Google/Facebook/Microsoft)
+* [Levels.fyi](https://www.levels.fyi/)
 * [Blind](https://www.teamblind.com/)
 * [Rooftop Slushie](https://www.rooftopslushie.com/)
