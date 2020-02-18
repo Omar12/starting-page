@@ -83,7 +83,7 @@ The approach of the starting page is to be my handy instruction manual for whene
 * [React Cheat Sheet for 2020](https://dev.to/codeartistryio/the-react-cheatsheet-for-2020-real-world-examples-4hgg)
 
 ## Prototyping Tools
-* [JSON Placeholder]https://jsonplaceholder.typicode.com/
+* [JSON Placeholder](https://jsonplaceholder.typicode.com/)
 
 ## When I Need Design Tools
 * [Spark Joy](https://github.com/sw-yx/spark-joy)
