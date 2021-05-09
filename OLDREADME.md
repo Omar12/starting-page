@@ -1,39 +1,39 @@
 # The Starting Page
 
 ## Contents
-- [The Starting Page](#The-Starting-Page)
-  - [Contents](#Contents)
-  - [Go-to Resources](#Go-to-Resources)
-  - [Front-End Development](#Front-End-Development)
-    - [General](#General)
-    - [JavaScript](#JavaScript)
-    - [Tools](#Tools)
-    - [Documentation and Cheat Sheets](#Documentation-and-Cheat-Sheets)
-    - [Reference and Directories](#Reference-and-Directories)
-    - [Online Coding Playgrounds](#Online-Coding-Playgrounds)
-  - [Design](#Design)
-    - [Inspiration](#Inspiration)
-    - [Design Elements](#Design-Elements)
-      - [Icons](#Icons)
-      - [Images](#Images)
-      - [Tools](#Tools-1)
-      - [UI Frameworks](#UI-Frameworks)
-    - [Directories](#Directories)
-  - [Product Management](#Product-Management)
-    - [Further Reading](#Further-Reading)
-  - [Career Development](#Career-Development)
-    - [Development](#Development)
-    - [Preparation](#Preparation)
-    - [Practice](#Practice)
-    - [Listings and Information](#Listings-and-Information)
-    - [Notes and Guides](#Notes-and-Guides)
+- [The Starting Page](#the-starting-page)
+  - [Contents](#contents)
+  - [Go-to Resources](#go-to-resources)
+  - [Front-End Development](#front-end-development)
+    - [General](#general)
+    - [JavaScript](#javascript)
+    - [Tools](#tools)
+    - [Documentation and Cheat Sheets](#documentation-and-cheat-sheets)
+    - [Reference and Directories](#reference-and-directories)
+    - [Online Coding Playgrounds](#online-coding-playgrounds)
+  - [Design](#design)
+    - [Inspiration](#inspiration)
+    - [Design Elements](#design-elements)
+      - [Icons](#icons)
+      - [Images](#images)
+      - [Tools](#tools-1)
+      - [UI Frameworks](#ui-frameworks)
+    - [Directories](#directories)
+  - [Product Management](#product-management)
+    - [Further Reading](#further-reading)
+  - [Career Development](#career-development)
+    - [Development](#development)
+    - [Preparation](#preparation)
+    - [Practice](#practice)
+    - [Listings and Information](#listings-and-information)
+    - [Notes and Guides](#notes-and-guides)
 
 ## Go-to Resources
-
-
+* [DevDocs](http://devdocs.io/)
+* [CSS Reference](http://cssreference.io/)
 * [CodeSandbox](https://codesandbox.io) Web based React prototyping
-
-* 
+* [Dev Hints Cheat Sheets](https://devhints.io/)
+* [git Flight Rules](https://github.com/k88hudson/git-flight-rules)
 
 ## Front-End Development
 
@@ -46,6 +46,11 @@
 * [Frontend Guide](https://github.com/grab/front-end-guide)
 
 ### JavaScript
+* [JavaScript.info](https://javascript.info/)
+* [JS The Right Way](http://jstherightway.org/)
+* [33 JavaScript Concepts](https://github.com/leonardomso/33-js-concepts)
+* [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
+* [30 Seconds of Code](https://30secondsofcode.org/)
 
 [:arrow_up: Back to Top](#the-starting-page)
 
@@ -58,22 +63,24 @@
 [:arrow_up: Back to Top](#the-starting-page)
 
 ### Documentation and Cheat Sheets
-
-
-
+* [Codrops CSS Reference](https://tympanus.net/codrops/css_reference/)
+* [Modern JS Cheat Sheet](https://github.com/mbeaudru/modern-js-cheatsheet)
+* [Array Explorer](https://sdras.github.io/array-explorer/) | [Object Explorer](https://sdras.github.io/object-explorer/)
 
 [:arrow_up: Back to Top](#the-starting-page)
 
 ### Reference and Directories
 * [Javascripting](https://www.javascripting.com/)
-
+* [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
 * [ES6.io](http://es6.io)
 * [NPM Discover](http://www.npmdiscover.com/)
 * [npms](https://npms.io/)
 * [Pika](https://www.pikapkg.com)
 * [Frontend Case Studies](https://github.com/andrew--r/frontend-case-studies)
 * [Learn X in Minutes](https://learnxinyminutes.com/)
-
+* [React JS Examples](https://reactjsexample.com/)
+* [Rapid API](https://rapidapxi.com/)
+* [API List](https://apilist.fun/)
 * [Best Websites Programmers Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 * [Development Resources](https://github.com/dakaraphi/development-resources)
 
@@ -150,9 +157,9 @@
 ## Career Development
 
 ### Development
-
-
-
+* [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+* [Professional Programming](https://github.com/charlax/professional-programming)
+* [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
 * [Build your own X](https://github.com/danistefanovic/build-your-own-x)
 * [Project Based Learning](https://github.com/tuvtran/project-based-learning)
 * [Beginner Friendly Projects](https://github.com/MunGell/awesome-for-beginners)

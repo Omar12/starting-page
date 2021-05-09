@@ -14,6 +14,7 @@ The approach of the starting page is to be my handy instruction manual for whene
   - [When I Need to Run Something Online](#when-i-need-to-run-something-online)
   - [JavaScript Education](#javascript-education)
   - [React Education](#react-education)
+  - [Prototyping Tools](#prototyping-tools)
   - [Design Tools](#design-tools)
   - [Career](#career)
   - [Interviewing and Algorithms](#interviewing-and-algorithms)
@@ -27,13 +28,15 @@ The approach of the starting page is to be my handy instruction manual for whene
 * [CSS Reference](http://cssreference.io/)
 * [Dev Hints Cheat Sheets](https://devhints.io/)
 * [Modern JS Cheat Sheet](https://github.com/mbeaudru/modern-js-cheatsheet)
-* [git Flight Rules](https://github.com/k88hudson/git-flight-rules)
+* [Git Flight Rules](https://github.com/k88hudson/git-flight-rules)
+* [Git Explorer](https://gitexplorer.com/)
 * [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
 * [30 Seconds of Code](https://30secondsofcode.org/)
 
 ## Do Things Right
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 * [Professional Programming](https://github.com/charlax/professional-programming)
+* [Effective Engineer](https://gist.github.com/Omar12/a2bd781af37126a5d16efebae9922083)
 * [Frontend Guide](https://github.com/grab/front-end-guide)
 
 ## The CSS
@@ -49,12 +52,16 @@ The approach of the starting page is to be my handy instruction manual for whene
 * [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
 ## When I Need Tools
+* [Tiny Helpers](https://tiny-helpers.dev/)
 * [NPM Discover](http://www.npmdiscover.com/)
 * [npms](https://npms.io/)
 * [Javascripting](https://www.javascripting.com/)
 * [Pika](https://www.pikapkg.com)
+* [Free for Dev](https://free-for.dev/#/)
+* [You Don't Need X](https://github.com/you-dont-need/You-Dont-Need)
 
 ## When I Need Ideas
+* [App Ideas](https://github.com/florinpop17/app-ideas)
 * [Public APIs](https://public-apis.xyz/)
 * [Build your own X](https://github.com/danistefanovic/build-your-own-x)
 * [Project Based Learning](https://github.com/tuvtran/project-based-learning)
@@ -76,6 +83,10 @@ The approach of the starting page is to be my handy instruction manual for whene
 ## React Education
 * [React Resources](https://reactresources.com/)
 * [React JS Examples](https://reactjsexample.com/)
+* [React Cheat Sheet for 2020](https://dev.to/codeartistryio/the-react-cheatsheet-for-2020-real-world-examples-4hgg)
+
+## Prototyping Tools
+* [JSON Placeholder](https://jsonplaceholder.typicode.com/)
 
 ## Design Tools
 * [Tailwind CSS](https://tailwindcss.com/docs) | [Cheat Sheet](https://nerdcave.com/tailwind-cheat-sheet)
@@ -112,4 +123,6 @@ The approach of the starting page is to be my handy instruction manual for whene
 
 ## Listings and Information
 * [HN: Who is Hiring Aggregator](https://whoishiring.io/#!/)
-* [Levels.fyi](https://www.levels.fyi/SE/Google/Facebook/Microsoft)
+* [Levels.fyi](https://www.levels.fyi/)
+* [Blind](https://www.teamblind.com/)
+* [Rooftop Slushie](https://www.rooftopslushie.com/)
