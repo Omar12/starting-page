@@ -3,31 +3,32 @@
 The approach of the starting page is to be my handy instruction manual for whenever I'm lost. It should have the manual of the tools that I use as well some of clear guidance on how to complete a web project
 
 ## Table of Contents
-- [The Starting Page](#The-Starting-Page)
-  - [Table of Contents](#Table-of-Contents)
-  - [Must-have Reference](#Must-have-Reference)
-  - [Do Things Right](#Do-Things-Right)
-  - [The CSS](#The-CSS)
-  - [When Feeling Lost](#When-Feeling-Lost)
-  - [When I Need Tools](#When-I-Need-Tools)
-  - [When I Need Ideas](#When-I-Need-Ideas)
-  - [When I Need to Run Something Online](#When-I-Need-to-Run-Something-Online)
-  - [Leveling Up JavaScript](#Leveling-Up-JavaScript)
-  - [Leveling Up React](#Leveling-Up-React)
-  - [When I Need Design Tools](#When-I-Need-Design-Tools)
-  - [Interviewing](#Interviewing)
-  - [Listings and Information](#Listings-and-Information)
+- [The Starting Page](#the-starting-page)
+  - [Table of Contents](#table-of-contents)
+  - [Good Reference ✨](#good-reference-)
+  - [Do Things Right](#do-things-right)
+  - [The CSS](#the-css)
+  - [When Feeling Lost](#when-feeling-lost)
+  - [When I Need Tools](#when-i-need-tools)
+  - [When I Need Ideas](#when-i-need-ideas)
+  - [When I Need to Run Something Online](#when-i-need-to-run-something-online)
+  - [JavaScript Education](#javascript-education)
+  - [React Education](#react-education)
+  - [Design Tools](#design-tools)
+  - [Career](#career)
+  - [Interviewing and Algorithms](#interviewing-and-algorithms)
+  - [Listings and Information](#listings-and-information)
 
-## Must-have Reference
+## Good Reference ✨
 * [DevDocs](http://devdocs.io/)
+* [JavaScript.info](https://javascript.info/)
+* [Array Explorer](https://arrayexplorer.netlify.app/)
+* [Object Explorer](https://objectexplorer.netlify.app/)
 * [CSS Reference](http://cssreference.io/)
 * [Dev Hints Cheat Sheets](https://devhints.io/)
-* [JavaScript.info](https://javascript.info/)
 * [Modern JS Cheat Sheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 * [git Flight Rules](https://github.com/k88hudson/git-flight-rules)
 * [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
-* [Array Explorer](https://sdras.github.io/array-explorer/)
-* [Object Explorer](https://sdras.github.io/object-explorer/)
 * [30 Seconds of Code](https://30secondsofcode.org/)
 
 ## Do Things Right
@@ -36,10 +37,13 @@ The approach of the starting page is to be my handy instruction manual for whene
 * [Frontend Guide](https://github.com/grab/front-end-guide)
 
 ## The CSS
+* [1 line layouts](https://1linelayouts.glitch.me/)
+* [Smol CSS](https://smolcss.dev/)
 * [Codrops CSS Reference](https://tympanus.net/codrops/css_reference/)
-* [Learn CSS Grid](https://learncssgrid.com/)
+* [Illustrated CSS Grid Cheat Sheet](https://dev.to/joyshaheb/css-grid-cheat-sheet-illustrated-in-2021-1a3)
 * [CSS Grid Generator](https://cssgrid-generator.netlify.com/)
 * [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
+* [Learn CSS Grid](https://learncssgrid.com/)
 
 ## When Feeling Lost
 * [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
@@ -49,7 +53,6 @@ The approach of the starting page is to be my handy instruction manual for whene
 * [npms](https://npms.io/)
 * [Javascripting](https://www.javascripting.com/)
 * [Pika](https://www.pikapkg.com)
-* [Frontend  Masters: Front-End Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
 
 ## When I Need Ideas
 * [Public APIs](https://public-apis.xyz/)
@@ -63,32 +66,49 @@ The approach of the starting page is to be my handy instruction manual for whene
 * [REPL.it](https://repl.it) Run the JS REPL
 * [Codepen](https://codepen.io)
 * [Observable HQ](https://beta.observablehq.com/) Run JS with notes
+* [hastebin](https://hastebin.com/)
 
-## Leveling Up JavaScript
-* [JS The Right Way](http://jstherightway.org/)
-* [30 Seconds of Code](https://30secondsofcode.org/)
+## JavaScript Education
 * [33 JavaScript Concepts](https://github.com/leonardomso/33-js-concepts)
 * [JavaScript Enlightment](https://frontendmasters.com/books/javascript-enlightenment/)
+* [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
 
-## Leveling Up React
-* https://reactresources.com/
+## React Education
+* [React Resources](https://reactresources.com/)
 * [React JS Examples](https://reactjsexample.com/)
 
-## When I Need Design Tools
+## Design Tools
+* [Tailwind CSS](https://tailwindcss.com/docs) | [Cheat Sheet](https://nerdcave.com/tailwind-cheat-sheet)
 * [Evergreen](https://evergreen.surge.sh/)
 * [Semantic UI](https://semantic-ui.com/) | [React Semantic UI](https://react.semantic-ui.com/)
 * [Colorhunt](https://colorhunt.co/)
+* [Hero Icons](https://heroicons.com/) | [Iconic](https://iconic.app/)
 * [Google Font Combinations](https://femmebot.github.io/google-type/)
+* [Spark Joy](https://github.com/sw-yx/spark-joy)
 * [Awesome Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
 
-## Interviewing
+## Career
+* [The Engineering Managers Booklist](https://github.com/jesselpalmer/the-engineering-managers-booklist)
+* [awesome engineering team management](https://github.com/kdeldycke/awesome-engineering-team-management)
+* [engineering management](https://github.com/charlax/engineering-management)
+* [Awesome Software Architecture](https://github.com/simskij/awesome-software-architecture)
+* [isoflow](https://isoflow.io/)
+* [swimlanes.io](https://swimlanes.io/)
+* [draw.io](https://draw.io)
+* [excalidraw](https://excalidraw.com/)
+* [AWS Cheat Sheets](https://tutorialsdojo.com/aws-cheat-sheets/)
+* [how they SRE](https://github.com/upgundecha/howtheysre)
+
+## Interviewing and Algorithms
 * [30 Seconds of Interviews](https://30secondsofinterviews.org/)
-* [Front-end Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
+* [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
+* [Front-end Interview Handbook](https://yangshun.github.io/front-end-interview-handbook/)
 * [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions#javascript)
 * [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms)
-* [Leet Code](http://leetcode.com/)
+* [Leet Code](http://leetcode.com/) :moneybag:
 * [Educative](https://educative.io) :moneybag:
 * [Interview Cake](https://interviewcake.com) :moneybag:
+* [Frontend Eval](https://frontendeval.com/)
 
 ## Listings and Information
 * [HN: Who is Hiring Aggregator](https://whoishiring.io/#!/)
