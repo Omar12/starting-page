@@ -32,6 +32,7 @@ The approach of the starting page is to be my handy instruction manual for whene
 * [Git Explorer](https://gitexplorer.com/)
 * [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
 * [30 Seconds of Code](https://30secondsofcode.org/)
+* [DOM Events](https://domevents.dev/)
 
 ## Do Things Right
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
