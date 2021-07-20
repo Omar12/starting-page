@@ -39,7 +39,7 @@ The approach of the starting page is to be my handy instruction manual for whene
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 * [Professional Programming](https://github.com/charlax/professional-programming)
 * [Effective Engineer](https://gist.github.com/Omar12/a2bd781af37126a5d16efebae9922083)
-* [Frontend Guide](https://github.com/grab/front-end-guide)
+* [airbnb JavaScript Styleguide](https://github.com/airbnb/javascript)
 
 ## The CSS
 * [1 line layouts](https://1linelayouts.glitch.me/)
