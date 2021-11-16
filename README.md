@@ -34,6 +34,7 @@ The approach of the starting page is to be my handy instruction manual for whene
 * [30 Seconds of Code](https://30secondsofcode.org/)
 * [DOM Events](https://domevents.dev/)
 * [HTML DOM](https://htmldom.dev/)
+* [Checklist.design](https://www.checklist.design/): A collection of the best design practices.
 
 ## Do Things Right
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
@@ -113,6 +114,7 @@ The approach of the starting page is to be my handy instruction manual for whene
 * [how they SRE](https://github.com/upgundecha/howtheysre)
 
 ## Interviewing and Algorithms
+* [Big Frontend.dev](https://bigfrontend.dev/)
 * [30 Seconds of Interviews](https://30secondsofinterviews.org/)
 * [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
 * [Front-end Interview Handbook](https://yangshun.github.io/front-end-interview-handbook/)
