@@ -12,8 +12,11 @@ The approach of the starting page is to be my handy instruction manual for whene
   - [When I Need Tools](#when-i-need-tools)
   - [When I Need Ideas](#when-i-need-ideas)
   - [When I Need to Run Something Online](#when-i-need-to-run-something-online)
-  - [JavaScript Education](#javascript-education)
-  - [React Education](#react-education)
+  - [Education](#education)
+    - [JavaScript](#javascript)
+    - [React](#react)
+    - [Other Frontend](#other-frontend)
+    - [Software Design](#software-design)
   - [Prototyping Tools](#prototyping-tools)
   - [Design Tools](#design-tools)
   - [Career](#career)
@@ -30,17 +33,17 @@ The approach of the starting page is to be my handy instruction manual for whene
 * [Modern JS Cheat Sheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 * [Git Flight Rules](https://github.com/k88hudson/git-flight-rules)
 * [Git Explorer](https://gitexplorer.com/)
-* [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+* [Patterns.dev by Addy Osmani and Lydia Hallie](https://www.patterns.dev/)
 * [30 Seconds of Code](https://30secondsofcode.org/)
-* [DOM Events](https://domevents.dev/)
 * [HTML DOM](https://htmldom.dev/)
+* [DOM Events](https://domevents.dev/)
 * [Checklist.design](https://www.checklist.design/): A collection of the best design practices.
 
 ## Do Things Right
+* [airbnb JavaScript Styleguide](https://github.com/airbnb/javascript)
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 * [Professional Programming](https://github.com/charlax/professional-programming)
 * [Effective Engineer](https://gist.github.com/Omar12/a2bd781af37126a5d16efebae9922083)
-* [airbnb JavaScript Styleguide](https://github.com/airbnb/javascript)
 
 ## The CSS
 * [1 line layouts](https://1linelayouts.glitch.me/)
@@ -52,7 +55,7 @@ The approach of the starting page is to be my handy instruction manual for whene
 * [Learn CSS Grid](https://learncssgrid.com/)
 
 ## When Feeling Lost
-* [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+* [Developer Roadmap](https://roadmap.sh)
 
 ## When I Need Tools
 * [Tiny Helpers](https://tiny-helpers.dev/)
@@ -75,18 +78,26 @@ The approach of the starting page is to be my handy instruction manual for whene
 * [Glitch](https://glitch.com/) Run Node apps
 * [REPL.it](https://repl.it) Run the JS REPL
 * [Codepen](https://codepen.io)
-* [Observable HQ](https://beta.observablehq.com/) Run JS with notes
+* [Observable HQ](https://beta.observablehq.com/) Run JS with notes, primarily for data viz.
 * [hastebin](https://hastebin.com/)
 
-## JavaScript Education
+## Education
+
+### JavaScript
 * [33 JavaScript Concepts](https://github.com/leonardomso/33-js-concepts)
 * [JavaScript Enlightment](https://frontendmasters.com/books/javascript-enlightenment/)
 * [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
 
-## React Education
+### React
 * [React Resources](https://reactresources.com/)
 * [React JS Examples](https://reactjsexample.com/)
 * [React Cheat Sheet for 2020](https://dev.to/codeartistryio/the-react-cheatsheet-for-2020-real-world-examples-4hgg)
+
+### Other Frontend
+* [Must Watch CSS](https://github.com/AllThingsSmitty/must-watch-css)
+
+### Software Design
+* [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
 
 ## Prototyping Tools
 * [JSON Placeholder](https://jsonplaceholder.typicode.com/)
