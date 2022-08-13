@@ -20,6 +20,7 @@ The approach of the starting page is to be my handy instruction manual for whene
   - [Prototyping Tools](#prototyping-tools)
   - [Design Tools](#design-tools)
   - [Career](#career)
+  - [Keeping Tools Sharpen](#keeping-tools-sharpen)
   - [Interviewing and Algorithms](#interviewing-and-algorithms)
   - [Listings and Information](#listings-and-information)
 
@@ -69,7 +70,7 @@ The approach of the starting page is to be my handy instruction manual for whene
 ## When I Need Ideas
 * [App Ideas](https://github.com/florinpop17/app-ideas)
 * [Public APIs](https://public-apis.xyz/)
-* [Build your own X](https://github.com/danistefanovic/build-your-own-x)
+* [Build your own X](https://github.com/codecrafters-io/build-your-own-x)
 * [Project Based Learning](https://github.com/tuvtran/project-based-learning)
 
 ## When I Need to Run Something Online
@@ -84,9 +85,9 @@ The approach of the starting page is to be my handy instruction manual for whene
 ## Education
 
 ### JavaScript
+* [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
 * [33 JavaScript Concepts](https://github.com/leonardomso/33-js-concepts)
 * [JavaScript Enlightment](https://frontendmasters.com/books/javascript-enlightenment/)
-* [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
 
 ### React
 * [React Resources](https://reactresources.com/)
@@ -124,17 +125,21 @@ The approach of the starting page is to be my handy instruction manual for whene
 * [AWS Cheat Sheets](https://tutorialsdojo.com/aws-cheat-sheets/)
 * [how they SRE](https://github.com/upgundecha/howtheysre)
 
-## Interviewing and Algorithms
+## Keeping Tools Sharpen
+* [Execute Program](https://www.executeprogram.com/courses)
 * [Big Frontend.dev](https://bigfrontend.dev/)
+* [Frontend Eval](https://frontendeval.com/)
+* [Educative](https://educative.io) :moneybag:
+
+## Interviewing and Algorithms
 * [30 Seconds of Interviews](https://30secondsofinterviews.org/)
 * [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
 * [Front-end Interview Handbook](https://yangshun.github.io/front-end-interview-handbook/)
 * [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions#javascript)
 * [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms)
+* [Reddit: Questions I've asked during interviews](https://old.reddit.com/r/ExperiencedDevs/comments/qrmwpc/questions_ive_asked_during_interviews/)
 * [Leet Code](http://leetcode.com/) :moneybag:
-* [Educative](https://educative.io) :moneybag:
 * [Interview Cake](https://interviewcake.com) :moneybag:
-* [Frontend Eval](https://frontendeval.com/)
 
 ## Listings and Information
 * [HN: Who is Hiring Aggregator](https://whoishiring.io/#!/)
