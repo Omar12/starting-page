@@ -20,9 +20,11 @@ The approach of the starting page is to be my handy instruction manual for whene
   - [Prototyping Tools](#prototyping-tools)
   - [Design Tools](#design-tools)
   - [Career](#career)
-  - [Keeping Tools Sharpen](#keeping-tools-sharpen)
+  - [Sharpen Your Saw](#sharpen-your-saw)
   - [Interviewing and Algorithms](#interviewing-and-algorithms)
   - [Listings and Information](#listings-and-information)
+  - [Tools](#tools)
+  - [Music](#music)
 
 ## Good Reference ✨
 * [DevDocs](http://devdocs.io/)
@@ -39,6 +41,8 @@ The approach of the starting page is to be my handy instruction manual for whene
 * [HTML DOM](https://htmldom.dev/)
 * [DOM Events](https://domevents.dev/)
 * [Checklist.design](https://www.checklist.design/): A collection of the best design practices.
+* [Commands.dev](https://www.commands.dev/):  command line cheat sheet
+* [Use The Keyboard](https://usethekeyboard.com/)
 
 ## Do Things Right
 * [airbnb JavaScript Styleguide](https://github.com/airbnb/javascript)
@@ -115,17 +119,14 @@ The approach of the starting page is to be my handy instruction manual for whene
 
 ## Career
 * [The Engineering Managers Booklist](https://github.com/jesselpalmer/the-engineering-managers-booklist)
+* [Engineering Ladders](http://www.engineeringladders.com/)
 * [awesome engineering team management](https://github.com/kdeldycke/awesome-engineering-team-management)
 * [engineering management](https://github.com/charlax/engineering-management)
 * [Awesome Software Architecture](https://github.com/simskij/awesome-software-architecture)
-* [isoflow](https://isoflow.io/)
-* [swimlanes.io](https://swimlanes.io/)
-* [draw.io](https://draw.io)
-* [excalidraw](https://excalidraw.com/)
 * [AWS Cheat Sheets](https://tutorialsdojo.com/aws-cheat-sheets/)
 * [how they SRE](https://github.com/upgundecha/howtheysre)
 
-## Keeping Tools Sharpen
+## Sharpen Your Saw
 * [Execute Program](https://www.executeprogram.com/courses)
 * [Big Frontend.dev](https://bigfrontend.dev/)
 * [Frontend Eval](https://frontendeval.com/)
@@ -145,4 +146,15 @@ The approach of the starting page is to be my handy instruction manual for whene
 * [HN: Who is Hiring Aggregator](https://whoishiring.io/#!/)
 * [Levels.fyi](https://www.levels.fyi/)
 * [Blind](https://www.teamblind.com/)
-* [Rooftop Slushie](https://www.rooftopslushie.com/)
+
+## Tools
+* [isoflow](https://isoflow.io/)
+* [swimlanes.io](https://swimlanes.io/)
+* [draw.io](https://draw.io)
+* [excalidraw](https://excalidraw.com/)
+* [Eraser](https://www.tryeraser.com/)
+* [numpad](https://numpad.io/)
+* [witeboard](https://witeboard.com/)
+
+## Music
+* [flowful](https://www.flowful.app/)
